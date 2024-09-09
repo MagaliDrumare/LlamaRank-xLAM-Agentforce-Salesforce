@@ -8,7 +8,7 @@ As part of our commitment to innovation in enterprise RAG and trusted AI, we're 
 - Introducing Together Rerank API and exclusive access to Salesforce LlamaRank model for enhanced enterprise search : https://www.together.ai/blog/together-rerank-api-and-salesforce-llamarank
 
 
-### xLAM models & XGen-MM-1 - 5 September 2024 
+### xLAM models & XGen-MM - 5 September 2024 
 Salesforce, the leading provider of cloud-based customer relationship management software, has introduced two advanced artificial intelligence models—xGen-Sales and xLAM—aimed at helping businesses increase automation and efficiency.
 - https://venturebeat.com/ai/is-ai-the-future-of-sales-salesforces-new-models-could-change-the-game/
 - https://x.com/SFResearch/status/1832117658533134375
