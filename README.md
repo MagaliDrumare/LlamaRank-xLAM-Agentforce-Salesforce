@@ -2,7 +2,13 @@
 # Salesforce Generative AI
 
 # Einstein Copilot 
-
+Einstein Copilot is a conversational AI assistant that processes natural language commands and generates responses based on your business data.
+Businesses can adapt Einstein Copilot by using custom data fields in Salesforce, allowing the AI to provide responses tailored to unique business information.
+Existing Salesforce workflows, such as Flows and Apex classes, can be integrated with Einstein Copilot by adding them as custom actions with descriptive metadata.
+Prompts can be customized with business-specific data and context, enabling the AI to generate more meaningful and relevant responses.
+The three key ways to adapt the AI are: using custom Salesforce data, incorporating existing workflows, and creating tailored prompts for more precise AI responses.
+- https://www.youtube.com/watch?v=_gbUH7CBSVM
+  
 
 # RAG Retrivial Augmented Generation 
 ### Focus on RAG 
