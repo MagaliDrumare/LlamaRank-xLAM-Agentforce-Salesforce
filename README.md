@@ -1,6 +1,9 @@
 
 # Salesforce Generative AI
 
+### Salesforce generative AI Quizz: 
+- https://deploy-m4crbc43l4yds9baeoex66.streamlit.app/
+
 # Einstein Copilot 
 Einstein Copilot is a conversational AI assistant that processes natural language commands and generates responses based on your business data.
 Businesses can adapt Einstein Copilot by using custom data fields in Salesforce, allowing the AI to provide responses tailored to unique business information.
