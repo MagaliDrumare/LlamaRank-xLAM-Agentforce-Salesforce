@@ -1,12 +1,19 @@
 
 # Salesforce Generative AI
 
+# Einstein Copilot 
+
+
+
+# RAG 
 
 ### Salesforce LlamaRank - 26 August 2024
 As part of our commitment to innovation in enterprise RAG and trusted AI, we're excited to release SFR LlamaRank, a state-of-the-art reranker from Salesforce AI Research. LlamaRank is a language model specialized for document relevancy ranking. LlamaRank achieves performance at least comparable to leading APIs across general document ranking while demonstrating a marked improvement in code search. LlamaRank’s performance was largely due to multiple rounds of iterative on-policy feedback provided by the Salesforce RLHF data annotation team.
 - Salesforce LlamaRank : https://blog.salesforceairesearch.com/llamarank/
 - Introducing Together Rerank API and exclusive access to Salesforce LlamaRank model for enhanced enterprise search : https://www.together.ai/blog/together-rerank-api-and-salesforce-llamarank
 
+
+# Agentic is the future 
 
 ### xLAM models & XGen-MM - 5 September 2024 
 Salesforce, the leading provider of cloud-based customer relationship management software, has introduced two advanced artificial intelligence models—xGen-Sales and xLAM—aimed at helping businesses increase automation and efficiency.
