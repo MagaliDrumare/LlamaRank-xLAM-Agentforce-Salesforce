@@ -1,7 +1,7 @@
 
 # Salesforce Generative AI
 
-### Salesforce generative AI Quizz: 
+### Salesforce Generative AI Quizz: 
 - https://deploy-m4crbc43l4yds9baeoex66.streamlit.app/
 
 # Einstein Copilot 
