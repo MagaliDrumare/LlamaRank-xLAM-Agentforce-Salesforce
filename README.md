@@ -14,7 +14,10 @@ As part of our commitment to innovation in enterprise RAG and trusted AI, we're 
 - Introducing Together Rerank API and exclusive access to Salesforce LlamaRank model for enhanced enterprise search : https://www.together.ai/blog/together-rerank-api-and-salesforce-llamarank
 
 
-# Agentic is the future 
+# Agentforce 
+
+### Focus on AI Agents 
+- https://github.com/MagaliDrumare/Focus-on-AI-Agent
 
 ### xLAM models & XGen-MM - 5 September 2024 
 Salesforce, the leading provider of cloud-based customer relationship management software, has introduced two advanced artificial intelligence models—xGen-Sales and xLAM—aimed at helping businesses increase automation and efficiency.
