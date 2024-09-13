@@ -1,6 +1,9 @@
 
 # Salesforce Generative AI
 
+### Salesforces AI Generative video : 
+- https://youtu.be/G-8kso7D6wg
+
 ### Salesforce Generative AI Quizz: 
 - https://deploy-m4crbc43l4yds9baeoex66.streamlit.app/
 
