@@ -1,7 +1,7 @@
 
 # Salesforce Generative AI
 
-### Salesforces AI Generative video : 
+### Salesforces AI Generative video 18 min : 
 - https://youtu.be/G-8kso7D6wg
 
 ### Salesforce Generative AI Quizz: 
