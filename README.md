@@ -16,7 +16,7 @@ As part of our commitment to innovation in enterprise RAG and trusted AI, we're 
 - Salesforce LlamaRank : https://blog.salesforceairesearch.com/llamarank/
 - Introducing Together Rerank API and exclusive access to Salesforce LlamaRank model for enhanced enterprise search : https://www.together.ai/blog/together-rerank-api-and-salesforce-llamarank
 
-# 🚀  Agentforce - September 2024
+# 🚀  Agentforce 
 
 ### Focus on AI Agents 
 - https://github.com/MagaliDrumare/Focus-on-AI-Agent
@@ -28,12 +28,12 @@ Salesforce, the leading provider of cloud-based customer relationship management
 - xLAM models : https://huggingface.co/collections/Salesforce/xlam-models-65f00e2a0a63bbcd1c2dade4
 - XGen-MM-1 models and datasets : https://huggingface.co/collections/Salesforce/xgen-mm-1-models-and-datasets-662971d6cecbf3a7f80ecc2e
 
-### AgentForce is coming - Dreamforce 
+### AgentForce is coming - Dreamforce - September 2024
 Salesforce today announced new AI models, including xGen-Sales, a proprietary model trained and designed to power autonomous sales tasks with Agentforce, and xLAM, a new family of Large Action Models designed to handle complex tasks and generate actionable outputs. Together, these models developed by Salesforce AI Research will allow Salesforce customers to quickly set up and deploy autonomous AI agents that take action, driving unprecedented scale.
 - https://www.salesforce.com/news/stories/agentforce-ai-models-announcement/
 - https://www.salesforce.com/agentforce/
 
-### Microsoft Competition - New Agent builder 
+### Microsoft Competition - New Agent builder - - September 2024
 Agent builder, a new, simplified experience powered by Copilot Studio.
 - Copilot Studio, agent builder : https://youtu.be/uo-vCFL96yQ?feature=shared
 - Copilot agents in SharePoint : https://youtu.be/kW0REEAnsEI?feature=shared
