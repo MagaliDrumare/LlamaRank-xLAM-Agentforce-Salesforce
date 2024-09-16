@@ -16,7 +16,7 @@ As part of our commitment to innovation in enterprise RAG and trusted AI, we're 
 - Salesforce LlamaRank : https://blog.salesforceairesearch.com/llamarank/
 - Introducing Together Rerank API and exclusive access to Salesforce LlamaRank model for enhanced enterprise search : https://www.together.ai/blog/together-rerank-api-and-salesforce-llamarank
 
-### The Cohere AI App is now available on Slack 
+### The Cohere AI App is now available on Slack - September 2024
 Cohere AI app is now available in Slack! This is one of the first, out-of-the-box AI apps that are now available via Slack's new interface for AI apps, agents, and assistants. The Cohere AI app brings the power of our secure enterprise-grade Command R series of generative AI models directly to Slack, so you can access the most relevant information directly from your company’s data sources to do your best work and collaborate across teams. Our models excel at business use cases by using advanced retrieval-augmented generation (RAG) to ensure strong accuracy, with clickable citations that allow users to instantly verify responses.
 - https://cohere.com/blog/slack-cohere-ai-app
 - Cohere Command R : https://cohere.com/command
