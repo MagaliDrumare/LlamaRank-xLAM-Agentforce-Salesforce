@@ -38,7 +38,7 @@ Salesforce today announced new AI models, including xGen-Sales, a proprietary mo
 - https://www.salesforce.com/news/stories/agentforce-ai-models-announcement/
 - https://www.salesforce.com/agentforce/
 
-### Microsoft Competition - New Agent builder - - September 2024
+### Microsoft Competition - New Agent builder - September 2024
 Agent builder, a new, simplified experience powered by Copilot Studio.
 - Copilot Studio, agent builder : https://youtu.be/uo-vCFL96yQ?feature=shared
 - Copilot agents in SharePoint : https://youtu.be/kW0REEAnsEI?feature=shared
