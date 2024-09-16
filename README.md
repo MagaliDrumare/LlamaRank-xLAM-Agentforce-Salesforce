@@ -1,5 +1,5 @@
 
-# Salesforce Generative AI
+#  🚀  Salesforce Generative AI
 
 ### Salesforces AI Generative video 18 min : 
 - https://youtu.be/G-8kso7D6wg
@@ -16,7 +16,7 @@ As part of our commitment to innovation in enterprise RAG and trusted AI, we're 
 - Salesforce LlamaRank : https://blog.salesforceairesearch.com/llamarank/
 - Introducing Together Rerank API and exclusive access to Salesforce LlamaRank model for enhanced enterprise search : https://www.together.ai/blog/together-rerank-api-and-salesforce-llamarank
 
-# Agentforce - September 2024
+# 🚀  Agentforce - September 2024
 
 ### Focus on AI Agents 
 - https://github.com/MagaliDrumare/Focus-on-AI-Agent
@@ -33,10 +33,3 @@ Salesforce today announced new AI models, including xGen-Sales, a proprietary mo
 - https://www.salesforce.com/news/stories/agentforce-ai-models-announcement/
 - https://www.salesforce.com/agentforce/
 
-# Einstein Copilot 
-Einstein Copilot is a conversational AI assistant that processes natural language commands and generates responses based on your business data.
-Businesses can adapt Einstein Copilot by using custom data fields in Salesforce, allowing the AI to provide responses tailored to unique business information.
-Existing Salesforce workflows, such as Flows and Apex classes, can be integrated with Einstein Copilot by adding them as custom actions with descriptive metadata.
-Prompts can be customized with business-specific data and context, enabling the AI to generate more meaningful and relevant responses.
-The three key ways to adapt the AI are: using custom Salesforce data, incorporating existing workflows, and creating tailored prompts for more precise AI responses.
-- https://www.youtube.com/watch?v=_gbUH7CBSVM
